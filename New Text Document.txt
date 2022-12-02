@@ -1,0 +1,5 @@
+1-staticwebsitehosting
+
+http://my-013617123040-bucket.s3-website-us-east-1.amazonaws.com
+
+ 
